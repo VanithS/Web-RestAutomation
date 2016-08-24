@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "AutoFrameTestSuite">
+<test name = "FuncTest">
+<classes>
+<class name = "com.test.HomePageTest"></class>
+<class name = "com.test.LoginPageTest"></class>
+</classes>
+</test>
+</suite>
